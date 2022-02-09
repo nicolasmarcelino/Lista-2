@@ -1,2 +1,5 @@
 # Lista 2
-Lista de exercícios 2 - Fundamentos de programação
+
+2° lista de exercícios em programação web
+
+// Here I am, learning loops.
